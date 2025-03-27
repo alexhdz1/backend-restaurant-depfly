@@ -69,6 +69,17 @@ http://localhost:8000
 
 ## 🛠️ Docker (opcional pero recomendado)
 
+### Opción rápida usando script `deploy.sh` ⚡️
+
+Si quieres ejecutar rápidamente todo con Docker, simplemente ejecuta:
+
+chmod +x .deploy.sh ./.deploy.sh
+
+
+### Alternativa manual
+
+## 🛠️ Docker (opcional pero recomendado)
+
 ### 1. Construir la imagen y levantar contenedores
 
 docker-compose build docker-compose up -d
